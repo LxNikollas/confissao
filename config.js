@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Letícia',
     introDesc: `Você é a minha casa, minha lua, meu sol, minhas estrelas, você é meu mundo, meu universo, onde tudo começa e onde para sempre vou ficar.`,
     btnIntro: '^^HiHi^^',
-    title: 'Você se apaixonou à primeira vista🥰',
+    title: 'Para deixar claro, eu me apaixonei à primeira vista🥰',
     desc: 'Eu fiquei bêbado desde o momento em que vi aquele sorriso!',
     quest: 'Você gosta de mim?',
     btnYes: 'Eu gosto <33',
