@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Eu sei 🥰.Te amo muito😘😘',
     messDesc: 'Segunda feira vou fazer que seja Incrível!',
     btnAccept: 'Clique aqui.',
-    messLink: 'https://www.instagram.com/nikollas.gregory2104' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.instagram.com/nikollas.gregory2104'
 }
